@@ -1,0 +1,14 @@
+/Users/mk/Documents/Projects/ImagesApi/bin/Debug/netcoreapp2.2/ImagesApi.deps.json
+/Users/mk/Documents/Projects/ImagesApi/bin/Debug/netcoreapp2.2/ImagesApi.runtimeconfig.json
+/Users/mk/Documents/Projects/ImagesApi/bin/Debug/netcoreapp2.2/ImagesApi.runtimeconfig.dev.json
+/Users/mk/Documents/Projects/ImagesApi/bin/Debug/netcoreapp2.2/ImagesApi.dll
+/Users/mk/Documents/Projects/ImagesApi/bin/Debug/netcoreapp2.2/ImagesApi.pdb
+/Users/mk/Documents/Projects/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.csprojAssemblyReference.cache
+/Users/mk/Documents/Projects/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.csproj.CoreCompileInputs.cache
+/Users/mk/Documents/Projects/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.RazorAssemblyInfo.cache
+/Users/mk/Documents/Projects/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.RazorAssemblyInfo.cs
+/Users/mk/Documents/Projects/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.AssemblyInfoInputs.cache
+/Users/mk/Documents/Projects/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.AssemblyInfo.cs
+/Users/mk/Documents/Projects/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.RazorTargetAssemblyInfo.cache
+/Users/mk/Documents/Projects/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.dll
+/Users/mk/Documents/Projects/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.pdb

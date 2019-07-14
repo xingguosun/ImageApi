@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FF70EA7D-1891-4E05-ABC3-F6ECCE3DE50C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ImagesController.cs">
+    <Files>
+      <File FileName="Controllers/ImagesController.cs" Line="18" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImagesApi" expanded="True">
+            <Node name="ImagesApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ImagesController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ImagesApi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
